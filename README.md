@@ -1,5 +1,4 @@
 # CORAviz
 A place to visualize Coastal Ocean Reanalysis (CORA) data
 
-- First list item
-- Second list item
+[plots](https://johnratcliff.github.io/CORAviz/plots.md)
