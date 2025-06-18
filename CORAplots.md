@@ -1,6 +1,5 @@
 ---
 title: CORA Plots
-layout: template
 filename: plots.md
 ---
 
