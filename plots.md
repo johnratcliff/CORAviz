@@ -1,8 +1,4 @@
----
-layout: default
-title: My Interactive Plot
----
 
-# My Interactive Plot
+# CORA Plots
 
 {% include_relative FLwest.html %}
