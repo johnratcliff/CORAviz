@@ -1,7 +1,8 @@
 ---
-layout: page
-title: "CORA Plots"
-permalink: https://johnratcliff.github.io/CORAviz/plots
+layout: default
+title: My Interactive Plot
 ---
+
+# My Interactive Plot
 
 {% include_relative FLwest.html %}
