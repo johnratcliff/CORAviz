@@ -1,3 +1,3 @@
-# A place to visualize data that I am working with.
+<h1 style="white-space: nowrap;">A place to visualize my data.</h1>
 
 [CORA Plots](plots.md)
