@@ -13,5 +13,8 @@ An example of max water elevation along shoreline nodes
 <style>
 .flex-container {
   display: flex;
+    flex-wrap: wrap;
+    gap: 20px; /* Adjust the desired spacing */
+    /* Other styling for the container, like width and padding */
 }
 </style>
